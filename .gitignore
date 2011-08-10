@@ -1,0 +1,11 @@
+build
+bin
+.Python
+lib
+src
+include
+gummiognina/static/js
+gummiognina/config/development.py
+*.pyc
+.DS_Store
+uploads

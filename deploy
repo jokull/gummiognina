@@ -1,0 +1,2 @@
+tar c gummiognina/static/js gummiognina/static/css | md5 > gummiognina/deploy
+kraftwerk deploy wodboard.com

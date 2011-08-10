@@ -1,0 +1,8 @@
+domain:
+    - www.gummiognina.com
+aliases:
+    - gummiognina.com
+services:
+    - files
+workers: 8
+wsgi: 'gummiognina.app:app'
