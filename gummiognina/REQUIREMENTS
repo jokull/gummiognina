@@ -1,13 +1,3 @@
 Flask
-Flask-SqlAlchemy
 Flask-Assets
-# Flask-Login
-# -e git+git://github.com/jokull/fungiform.git#egg=Fungiform
-# -e git+git://github.com/jokull/flask-fungiform.git#egg=Flask-Fungiform
-
-# restkit
-# pyFaceGraph
-
-redis
-# instagram
 -e git+https://github.com/Instagram/python-instagram.git#egg=Instagram
